@@ -17,22 +17,21 @@
 
 ## 1.功能介绍
 
-* [网络稳定性保障](/sdnbox/stability.md)
-* [自动容灾](/sdnbox/recovery.md)
-* [自研VPN加密方案](/sdnbox/VPN.md)
+* [网络稳定性保障](/accessgw/stability.md)
+* [自动容灾](/accessgw/recovery.md)
+* [自研VPN加密方案](/accessgw/VPN.md)
 
 ## 2.使用场景介绍
 
 对云计算服务商比超算中心与，UCloud EPC平台的优势所在。
 
-* [无人化港口应用](/sdnbox/port.md)
+* [无人化港口应用](/accessgw/port.md)
 
-* [场景电商应用](/sdnbox/e-commerce.md).
-
-
+* [场景电商应用](/accessgw/e-commerce.md)
 
 
-  
+
+
 
 
 
