@@ -1,4 +1,4 @@
-* [概览](/sdnbox/README.md)
+* [概览](/accessgw/README.md)
 
 * 功能介绍
 
